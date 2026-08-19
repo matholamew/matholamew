@@ -1,31 +1,51 @@
-<div align="center">
-  <h1>Hi 👋, I'm @matholamew</h1>
-  <p>Exploring the intersection of blockchain and endurance.</p>
-  
-  <a href="https://linkedin.com/in/matthewandersonj" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="matthewandersonj" /></a>
-</div>
-
----
-
-### ⚡ About Me
-
-- 🌱 **Learning:** Currently diving deep into **Chia blockchain development**.
-- 💬 **Ask me about:** Distance running, marathon training, or trail tips.
-- 🚀 **No as a Service - Raycast extension:** [![Raycast Extension](https://img.shields.io/badge/Raycast-No_As_A_Service-FF4F5B?style=flat-square&logo=raycast&logoColor=white)](https://www.raycast.com/nedini/no-as-a-service)
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,gcp,bash,mysql&theme=dark" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=matholamew&theme=github-dark&label=matholamew" width="100%" alt="matholamew" />
 </p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=matholamew&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=matholamew&theme=github-dark&mode=dark" width="100%" alt="matholamew — profile" />
+  </picture>
+</p>
 
-### 📊 GitHub Stats
+<p align="center"><a href="https://github.com/matholamew">GitHub</a></p>
 
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=matholamew&show_icons=true&theme=radical" height="150" alt="stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=matholamew&layout=compact&theme=radical" height="150" alt="languages" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/about?username=matholamew&theme=github-dark" alt="matholamew about visual" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=matholamew&theme=github-dark" alt="matholamew stack visual" />
+</p>
+
+## Signal
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=matholamew&theme=github-dark" width="100%" alt="1 stars across 15 repositories" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=matholamew&theme=github-dark" width="100%" alt="Language stack" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=matholamew&theme=github-dark" alt="matholamew projects visual" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=matholamew&theme=github-dark" alt="matholamew social visual" />
+</p>
+
+## Profile scan
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/system-scan?username=matholamew&theme=github-dark" width="100%" alt="ASCII profile scan" />
+</p>
+
+<hr />
+
+<p align="center">
+  <sub>matholamew · every panel is a single <code>&lt;img&gt;</code> of live GitHub data ·
+  built with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
 </p>
