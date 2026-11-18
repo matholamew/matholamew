@@ -1,13 +1,4 @@
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-room?username=matholamew&mode=light&v=2026-11-11" />
-  <img src="https://www.gitskins.com/api/section/pixel-room?username=matholamew&mode=dark&v=2026-11-11" width="100%" alt="matholamew's pixel studio" />
-</picture>
-
-<sub>The window shows the weather in Boston, MA right now. The monitor scrolls my latest commits; the shelf holds a book for each language I write.</sub>
-
-<a href="https://github.com/matholamew">GitHub</a>
-
-<picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/studio-about?username=matholamew&mode=light&v=2026-11-11" />
   <img src="https://www.gitskins.com/api/section/studio-about?username=matholamew&mode=dark&v=2026-11-11" width="100%" alt="About matholamew: SQL Server DBA" />
 </picture>
@@ -16,6 +7,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-hud?username=matholamew&mode=light&v=2026-11-11" />
   <img src="https://www.gitskins.com/api/section/pixel-hud?username=matholamew&mode=dark&v=2026-11-11" width="100%" alt="Commits, pull requests, stars and best streak" />
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-room?username=matholamew&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/pixel-room?username=matholamew&mode=dark&v=2026-11-11" width="100%" alt="matholamew's pixel studio" />
+</picture>
+
+<sub>The window shows the weather in Boston, MA right now. The monitor scrolls my latest commits; the shelf holds a book for each language I write.</sub>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-header?username=matholamew&title=%3E+Projects&mode=light&v=2026-11-11" />
